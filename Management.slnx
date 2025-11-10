@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/front-react-ts/">
+    <File Path="front-react-ts/.gitignore" />
+    <File Path="front-react-ts/eslint.config.js" />
+    <File Path="front-react-ts/index.html" />
+    <File Path="front-react-ts/package-lock.json" />
+    <File Path="front-react-ts/package.json" />
+    <File Path="front-react-ts/README.md" />
+    <File Path="front-react-ts/tsconfig.app.json" />
+    <File Path="front-react-ts/tsconfig.json" />
+    <File Path="front-react-ts/tsconfig.node.json" />
+    <File Path="front-react-ts/vite.config.ts" />
+  </Folder>
+  <Project Path="Management.Api/Management.Api.csproj" />
+</Solution>
